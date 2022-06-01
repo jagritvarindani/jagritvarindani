@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/ptprashanttripathi/ptprashanttripathi/master/hi.gif" width="25px">, I am Jagrit Varindani!
+### Hi there <img src="https://raw.githubusercontent.com/ptprashanttripathi/ptprashanttripathi/master/hi.gif" height="25px" width="25px">, I am Jagrit Varindani!
 
 ***
 
